@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 
-public class CopyOfReconstructedFeaturesTranspose {
+public class ReconstructedInstances {
 
     public static void main(String[] args) throws IOException {
 
